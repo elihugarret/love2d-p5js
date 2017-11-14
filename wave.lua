@@ -1,5 +1,7 @@
 -- -*- Mode: lua; tab-width: 2; lua-indent-level: 2; indent-tabs-mode: nil; -*-
-
+----------------------------------------------------------
+-- Based on: https://www.openprocessing.org/sketch/152169
+----------------------------------------------------------
 local utils = require "p5utils"
 
 local app = {}
